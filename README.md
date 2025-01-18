@@ -64,6 +64,6 @@ For a detailed tutorial, [**view this**](https://github.com/RatWasHere/bmods/blo
 
 Join our community on the [Discord server](https://discord.gg/whtjS7BW3u) for support and discussion.
 
-## Licensee
+## License
 
 This project is distributed under the [MIT License](https://github.com/RatWasHere/bmods/blob/master/LICENSE).
